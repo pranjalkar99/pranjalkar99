@@ -1,4 +1,4 @@
-# Greetings Respected Viewers <img src="https://github.com/AsadAzam/AsadAzam/blob/master/wave.gif" width="30px" height="30px">
+# Hello Respected Viewers <img src="https://github.com/AsadAzam/AsadAzam/blob/master/wave.gif" width="30px" height="30px">
 
 This is **Pranjal Kar**, a passionate individual in the field of **Machine Learning** and **Data Science**. 
 I have recently completed a successful ML Internship, where I gained hands-on experience in implementing various NLP techniques. Additionally, I am currently expanding my knowledge in **Data Structures and Algorithms** and exploring Web Development using **Python-Flask**. I am also proficient in **Database Management Systems** which play a crucial role in various aspects of Computer Science. Moreover, I possess skills in backend technologies using **Python** and frontend technologies using **Vue.js**.
@@ -13,8 +13,6 @@ I have recently completed a successful ML Internship, where I gained hands-on ex
 
 Please don't hesitate to reach out to me. I am more than happy to assist and collaborate on any projects.
 
-![GitHub followers](https://img.shields.io/github/followers/pranjalkar99?label=Follow&style=social)
-
 ## :notebook_with_decorative_cover: Skills
 
 | Skill | Technologies/Tools |
@@ -23,18 +21,23 @@ Please don't hesitate to reach out to me. I am more than happy to assist and col
 | Machine Learning | Linear Regression, Logistic Regression, Decision Tree, Support Vector Machine, Naive Bayes, Ensemble Techniques, Hyperparameter Tuning |
 | Deep Learning | Artificial Neural Networks, Convolutional Neural Networks, VGG, ResNet |
 | Computer Vision | RCNN family, YOLO family, SSD, Object Segmentation (Mask-RCNN), Object Tracking |
+|Cloud Platforms:| Basic AWS, Google Cloud Platform (GCP) |
+| RESTful APIs: | Flask-RESTful, FastAPI|
+| Data Visualization | Tableau, Matplotlib, Plotly |
+| Big Data Processing | Apache Spark, Hadoop |
 
 
 ## Resume
 
-[![Resume PDF](https://img.shields.io/badge/View%20Resume-PDF-blue)]([https://path-to-your-resume.pdf](https://drive.google.com/file/d/1QwsBiuzmrv_S--BkjoPc25KhIDMIXQ4S/view?usp=sharing))
-
+[![Resume PDF](https://img.shields.io/badge/View%20Resume-PDF-blue)](https://drive.google.com/file/d/1QwsBiuzmrv_S--BkjoPc25KhIDMIXQ4S/view?usp=sharing)
 
 
 
 ## &#x1f4c8; GitHub Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=pranjalkar99&color=blue)
+
+![Profile Views](https://komarev.com/ghpvc/?username=pranjalkar99&color=blue) ![GitHub followers](https://img.shields.io/github/followers/pranjalkar99?label=Follow&style=social)
+
 
 <a href="https://github.com/pranjalkar99">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalkar99&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="300" width="40%"/>
