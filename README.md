@@ -32,12 +32,9 @@ Please don't hesitate to reach out to me. I am more than happy to assist and col
 [![Resume PDF](https://img.shields.io/badge/View%20Resume-PDF-blue)](https://drive.google.com/file/d/1QwsBiuzmrv_S--BkjoPc25KhIDMIXQ4S/view?usp=sharing)
 
 ## Quine Stats
-
 [![pranjalkar99's GitHub | Stats](https://stats.quine.sh/pranjalkar99/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=pranjalkar99)
 
-[![pranjalkar99's GitHub | Topics Over Time](https://stats.quine.sh/pranjalkar99/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=pranjalkar99)
 
-[![pranjalkar99's GitHub | Languages Over Time](https://stats.quine.sh/pranjalkar99/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=pranjalkar99)
 
 ## &#x1f4c8; GitHub Stats
 
