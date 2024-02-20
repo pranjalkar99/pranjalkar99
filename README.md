@@ -5,11 +5,15 @@ I have recently completed a successful ML Internship, where I gained hands-on ex
 
 ## Insights About Me:
 
-- 🔭 I am currently working on real-time sign detection application based on ISL (Indian Sign Language). It utilizes a CNN model and hallmarks from Mediapipe Holistic. To further enhance communication and learning among the deaf community, we have also developed an MVP of an Ed-Tech platform that generates Sign Language videos from normal videos.
-- I have done a ML Internship , where I implemented various NLP techniques. I am also learning DSA and Web Development using Python-Flask, I am also proficient in  DBMS that is used wide open in every aspect of CS.I am also skilled at backend technologies using python, and frontend using Vuejs, currently.  
-- 🌱 I am actively involved with an NGO aiming to monitor the position and activity of Rhinos in various forests of Assam using Computer Vision and other technologies.
-- 👯 I am eager to collaborate on projects related to Machine Learning, Deep Learning, and Data Science.
-- 💬 Please Feel free to contact me at pranjalkar99.work@gmail.com for any help, queries, or collaboration opportunities.
+Hey there! I'm Pranjal Kar, a passionate Deep Learning Engineer and Data Scientist. Currently pursuing a B.Tech in Electronics and Communications at Tezpur University, I've also been exploring the world of Data Applications through a Dual Degree program at IIT Madras.
+
+With a knack for solving real-world problems using AI and data-driven approaches, I've delved into exciting roles like AI Intern at CDAC, Bangalore, and ML-Ops Developer at Ovvy (Through DAAS), contributing to cutting-edge projects in network security and multimodal model APIs.
+
+In my latest venture with Compfox, a US-based startup, I've been crafting conversational AI chatbots and LLM Applications based on Langchain and LlamaIndex and leveraging ML EDA pipelines for legal applications. As a Research Intern at Aaranyak, an NGO, I developed ML and Computer Vision solutions for wildlife conservation of Rhinos.
+
+Beyond the tech realm, I love working on impactful projects like "Yog," a holistic AI-enabled health app, and "Shruti-Drishti," a real-time ISL based sign detection app aimed at bridging communication gaps.
+
+Always up for collaborative opportunities, I'm open to exploring new horizons in the AI landscape. Connect with me on pranjalkar99.work@gmail.com or connect through Linkedin(https://www.linkedin.com/in/pranjal-kar-3b4691196) 
 
 Please don't hesitate to reach out to me. I am more than happy to assist and collaborate on any projects.
 
@@ -29,7 +33,7 @@ Please don't hesitate to reach out to me. I am more than happy to assist and col
 
 ## Resume
 
-[![Resume PDF](https://img.shields.io/badge/View%20Resume-PDF-blue)](https://drive.google.com/file/d/1QwsBiuzmrv_S--BkjoPc25KhIDMIXQ4S/view?usp=sharing)
+[![Resume PDF](https://img.shields.io/badge/View%20Resume-PDF-blue)](https://drive.google.com/file/d/12XM0mwwThsYksXqNxbcbjHXLql6gW5eE/view?usp=sharing)
 
 ## Quine Stats
 [![pranjalkar99's GitHub | Stats](https://stats.quine.sh/pranjalkar99/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=pranjalkar99)
