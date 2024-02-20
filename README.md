@@ -1,11 +1,6 @@
 # Hello Respected Viewers <img src="https://github.com/AsadAzam/AsadAzam/blob/master/wave.gif" width="30px" height="30px">
 
-This is **Pranjal Kar**, a passionate individual in the field of **Machine Learning** and **Data Science**. 
-I have recently completed a successful ML Internship, where I gained hands-on experience in implementing various NLP techniques. Additionally, I am currently expanding my knowledge in **Data Structures and Algorithms** and exploring Web Development using **Python-Flask**. I am also proficient in **Database Management Systems** which play a crucial role in various aspects of Computer Science. Moreover, I possess skills in backend technologies using **Python** and frontend technologies using **Vue.js**.
-
-## Insights About Me:
-
-Hey there! I'm Pranjal Kar, a passionate Deep Learning Engineer and Data Scientist. Currently pursuing a B.Tech in Electronics and Communications at Tezpur University, I've also been exploring the world of Data Applications through a Dual Degree program at IIT Madras.
+This is **Pranjal Kar**, a passionate individual in the field of **Machine Learning** and **Data Science**. . Currently pursuing a B.Tech in Electronics and Communications at Tezpur University, I've also been exploring the world of Data Applications through a Dual Degree program at IIT Madras.
 
 With a knack for solving real-world problems using AI and data-driven approaches, I've delved into exciting roles like AI Intern at CDAC, Bangalore, and ML-Ops Developer at Ovvy (Through DAAS), contributing to cutting-edge projects in network security and multimodal model APIs.
 
