@@ -28,7 +28,7 @@ Please don't hesitate to reach out to me. I am more than happy to assist and col
 
 ## Resume
 
-[![Resume PDF](https://img.shields.io/badge/View%20Resume-PDF-blue)](https://drive.google.com/file/d/12XM0mwwThsYksXqNxbcbjHXLql6gW5eE/view?usp=sharing)
+[![Resume PDF](https://img.shields.io/badge/View%20Resume-PDF-blue)](https://drive.google.com/file/d/1G6SnFnSgFhGsB2tefKAfLzN0nfQB2IQ3/view?usp=sharing)
 
 ## Quine Stats
 [![pranjalkar99's GitHub | Stats](https://stats.quine.sh/pranjalkar99/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=pranjalkar99)
