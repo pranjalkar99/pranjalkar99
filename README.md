@@ -2,7 +2,7 @@
 
 This is **Pranjal Kar**, a passionate individual in the field of **Machine Learning** and **Data Science**. . Currently pursuing a B.Tech in Electronics and Communications at Tezpur University, I've also been exploring the world of Data Applications through a Dual Degree program at IIT Madras.
 
-With a knack for solving real-world problems using AI and data-driven approaches, I've delved into exciting roles like AI Intern at CDAC, Bangalore, and ML-Ops Developer at Ovvy, contributing to cutting-edge projects in network security and multimodal model APIs.
+With a knack for solving real-world problems using AI and data-driven approaches, I've delved into exciting roles like Intern at CDAC, Bangalore, and ML-Ops Developer at Ovvy, contributing to cutting-edge projects in network security and multimodal model APIs.
 
 In my latest venture with Compfox, a US-based startup, I've been crafting conversational AI chatbots and LLM Applications based on Langchain and LlamaIndex and leveraging ML EDA pipelines for legal applications. As a Research Intern at Aaranyak, an NGO, I developed ML and Computer Vision solutions for wildlife conservation of Rhinos.
 
