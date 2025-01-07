@@ -1,12 +1,12 @@
 # Hello Respected Viewers <img src="https://github.com/AsadAzam/AsadAzam/blob/master/wave.gif" width="30px" height="30px">
 
-This is **Pranjal Kar**, a passionate individual in the field of **Machine Learning** and **Data Science**. . Currently pursuing a B.Tech in Electronics and Communications at Tezpur University, I've also been exploring the world of Data Applications through a Dual Degree program at IIT Madras.
+This is **Pranjal Kar**, a passionate individual in the field of **Machine Learning** and **Data Science**. I hold a B.Tech in Electronics and Communications from Tezpur University, graduating with an 8.4 CGPA, and have further enriched my skills through a Dual Degree program in Data Applications at IIT Madras.
 
 With a knack for solving real-world problems using AI and data-driven approaches, I've delved into exciting roles like Intern at CDAC, Bangalore, and ML-Ops Developer at Ovvy, contributing to cutting-edge projects in network security and multimodal model APIs.
 
 In my latest venture with Compfox, a US-based startup, I've been crafting conversational AI chatbots and LLM Applications based on Langchain and LlamaIndex and leveraging ML EDA pipelines for legal applications. As a Research Intern at Aaranyak, an NGO, I developed ML and Computer Vision solutions for wildlife conservation of Rhinos.
 
-Beyond the tech realm, I love working on impactful projects like "Yog," a holistic AI-enabled health app, and "Shruti-Drishti," a real-time ISL based sign detection app aimed at bridging communication gaps, which won the Hasgeek Open Source AI Hackathon.
+Beyond the tech realm, I love working on impactful projects like "Yog," a holistic AI-enabled health app, and "Shruti-Drishti," a real-time ISL based sign detection app aimed at bridging communication gaps, which was one of the winners at the Hasgeek Open Source AI Hackathon.
 
 Always up for collaborative opportunities, I'm open to exploring new horizons in the AI landscape. Connect with me on pranjalkar99.work@gmail.com or connect through Linkedin(https://www.linkedin.com/in/pranjal-kar-3b4691196) 
 
