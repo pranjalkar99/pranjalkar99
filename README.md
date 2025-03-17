@@ -1,16 +1,19 @@
 # Hello Respected Viewers <img src="https://github.com/AsadAzam/AsadAzam/blob/master/wave.gif" width="30px" height="30px">
 
-This is **Pranjal Kar**, a passionate individual in the field of **Machine Learning** and **Data Science**. I hold a B.Tech in Electronics and Communications from Tezpur University, graduating with an 8.4 CGPA, and have further enriched my skills through a Dual Degree program in Data Applications at IIT Madras.
+## Hey, I'm Pranjal Kar!  
 
-With a knack for solving real-world problems using AI and data-driven approaches, I've delved into exciting roles like Intern at CDAC, Bangalore, and ML-Ops Developer at Ovvy, contributing to cutting-edge projects in network security and multimodal model APIs.
+A **machine learning enthusiast** who loves tackling real-world problems with **AI** and **data-driven solutions**. I graduated with a **B.Tech in Electronics and Communications** from **Tezpur University** (8.4 CGPA) and leveled up my skills through a **Dual Degree in Data Applications** at **IIT Madras**.  
 
-In my latest venture with Compfox, a US-based startup, I've been crafting conversational AI chatbots and LLM Applications based on Langchain and LlamaIndex and leveraging ML EDA pipelines for legal applications. As a Research Intern at Aaranyak, an NGO, I developed ML and Computer Vision solutions for wildlife conservation of Rhinos.
+I've worked on some pretty cool projects— like at **CDAC, Bangalore**, diving into **AI for network security**, and developing **ML-Ops solutions** at **Ovvy** for **multimodal model APIs**.  
 
-Beyond the tech realm, I love working on impactful projects like "Yog," a holistic AI-enabled health app, and "Shruti-Drishti," a real-time ISL based sign detection app aimed at bridging communication gaps, which was one of the winners at the Hasgeek Open Source AI Hackathon.
+At **Compfox** (a US-based startup), I’m built **conversational AI chatbots** and **LLM applications** with **Langchain and LlamaIndex**, along with **ML EDA pipelines** for **legal  AI tech**. I also spent time as a **Research Intern at Aaranyak**, where I applied **ML and computer vision** to **wildlife conservation** (Rhinos, specifically!).  
 
-Always up for collaborative opportunities, I'm open to exploring new horizons in the AI landscape. Connect with me on pranjalkar99.work@gmail.com or connect through Linkedin(https://www.linkedin.com/in/pranjal-kar-3b4691196) 
+Beyond work, I enjoy building impactful projects like **Yog**, an **AI-powered holistic health app**, and **Shruti-Drishti**, a **real-time ISL-based sign detection app**—one of the winners at the **Hasgeek Open Source AI Hackathon**.  
 
-Please don't hesitate to reach out to me. I am more than happy to assist and collaborate on any projects.
+Always down for new collaborations in AI. Feel free to hit me up at **pranjalkar99.work@gmail.com** or connect on **[LinkedIn](https://www.linkedin.com/in/pranjal-kar-3b4691196)**.  
+
+Let's build something awesome! 🚀  
+
 
 ## :notebook_with_decorative_cover: Skills
 
