@@ -1,40 +1,10 @@
-# Hello Respected Viewers <img src="https://github.com/AsadAzam/AsadAzam/blob/master/wave.gif" width="30px" height="30px">
 
-## Hey, I'm Pranjal Kar!  
-
-A **machine learning enthusiast** who loves tackling real-world problems with **AI** and **data-driven solutions**. I graduated with a **B.Tech in Electronics and Communications** from **Tezpur University** (8.4 CGPA) and leveled up my skills through a **Dual Degree in Data Applications** at **IIT Madras**.  
-
-I've worked on some pretty cool projects— like at **CDAC, Bangalore**, diving into **AI for network security**, and developing **ML-Ops solutions** at **Ovvy** for **multimodal model APIs**.  
-
-At **Compfox** (a US-based startup), I’m built **conversational AI chatbots** and **LLM applications** with **Langchain and LlamaIndex**, along with **ML EDA pipelines** for **legal  AI tech**. I also spent time as a **Research Intern at Aaranyak**, where I applied **ML and computer vision** to **wildlife conservation** (Rhinos, specifically!).  
-
-Beyond work, I enjoy building impactful projects like **Yog**, an **AI-powered holistic health app**, and **Shruti-Drishti**, a **real-time ISL-based sign detection app**—one of the winners at the **Hasgeek Open Source AI Hackathon**.  
+## Pranjal Kar!  
 
 Always down for new collaborations in AI. Feel free to hit me up at **pranjalkar99.work@gmail.com** or connect on **[LinkedIn](https://www.linkedin.com/in/pranjal-kar-3b4691196)**.  
 
 Let's build something awesome! 🚀  
 
-
-## :notebook_with_decorative_cover: Skills
-
-| Skill | Technologies/Tools |
-|:--|:------------|
-| Python | NumPy, Pandas, Matplotlib, Seaborn, Plotly, Scikit-Learn, Keras, OpenCV, TensorFlow, PyTorch |
-| Machine Learning | Linear Regression, Logistic Regression, Decision Tree, Support Vector Machine, Naive Bayes, Ensemble Techniques, Hyperparameter Tuning |
-| Deep Learning | Artificial Neural Networks, Convolutional Neural Networks, VGG, ResNet |
-| Computer Vision | RCNN family, YOLO family, SSD, Object Segmentation (Mask-RCNN), Object Tracking |
-|Cloud Platforms:| Basic AWS, Google Cloud Platform (GCP) |
-| RESTful APIs: | Flask-RESTful, FastAPI|
-| Data Visualization | Tableau, Matplotlib, Plotly |
-| Big Data Processing | Apache Spark, Hadoop |
-
-
-## Resume
-
-[![Resume PDF](https://img.shields.io/badge/View%20Resume-PDF-blue)](https://drive.google.com/file/d/1G6SnFnSgFhGsB2tefKAfLzN0nfQB2IQ3/view?usp=sharing)
-
-## Quine Stats
-[![pranjalkar99's GitHub | Stats](https://stats.quine.sh/pranjalkar99/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=pranjalkar99)
 
 
 
